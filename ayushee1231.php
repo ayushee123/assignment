@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>LIC Insurance</title>
+<title>FORM</title>
 <style type="text/css">
 .header{
 	width:100%;
@@ -104,8 +104,8 @@ document.getElementById('ta').value=total;
 </head>
 <body>
 <div class="header">
-Site's Header 
-<div class="image"><img src="1.jpg" height="300px;" width="100px;" border="12" />
+Site's Header
+
 
 </div>
 <div class="menu">
@@ -123,11 +123,11 @@ Site's Menu
 <option value="1000">BBA</option>
 </select>
 
-<div class="frontform"><input type="number" name="pa*id"="pa" placeholder="Amount"/></div>
+<div class="frontform"><input type="number" name="pa*id"="pa" placeholder="Course code"/></div>
 
 
 <div class ="frontform"><input type="number" name="duration" placeholder="duration" onblur="f1()"/></div>
-<div cass="frontform"><input type="number" name="ta" id="ta" readonly="readonly"placeholder="Total amount"/></div>
+<div cass="frontform"><input type="number" name="ta*id="ta" readonly="readonly"placeholder="Total amount"/></div>
 <div class="frontform"><input type="submit" name="duration" placeholder="duration"/></div>
 
 
@@ -146,6 +146,8 @@ Other<input type="checkbox" name="other" value="other" />
 </form>
 
 <div class="footer">
+<img src="books.jpg" height="100px;" width="80px;" border="9" />
+
 </div>
 
 </body>
