@@ -105,6 +105,7 @@ document.getElementById('ta').value=total;
 <body>
 <div class="header">
 Site's Header
+<img src="books.jpg" height="200px; " width="1330px;" border="9" />
 
 
 </div>
@@ -146,7 +147,6 @@ Other<input type="checkbox" name="other" value="other" />
 </form>
 
 <div class="footer">
-<img src="books.jpg" height="100px;" width="80px;" border="9" />
 
 </div>
 
